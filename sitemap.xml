@@ -4,6 +4,17 @@
   
   <url>
     <loc>/</loc>
+    <lastmod>2020-12-09T04:11:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/news/</loc>
+    <lastmod>2020-12-09T04:11:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-12-09T04:11:11+09:00</lastmod>
   </url>
   
   <url>
@@ -16,10 +27,6 @@
   
   <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
   </url>
   
   <url>
