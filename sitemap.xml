@@ -4,7 +4,27 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-12-09T04:11:11+09:00</lastmod>
+    <lastmod>2020-12-16T03:47:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-12-16T03:47:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/individual-project/</loc>
+    <lastmod>2020-12-16T03:47:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/mathematics-programming-personal-site/</loc>
+    <lastmod>2020-12-16T03:47:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-12-16T03:47:14+09:00</lastmod>
   </url>
   
   <url>
@@ -23,10 +43,6 @@
   
   <url>
     <loc>/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
   </url>
   
   <url>
