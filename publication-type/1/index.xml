@@ -5,7 +5,7 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Dec 2020 04:44:08 +0900</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 04:10:09 +0900</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Finding finite groups with an almost large degree irreducible character in GAPl</title>
+      <title>FINDING FINITE GROUPS WITH AN ALMOST LARGE DEGREE IRREDUCIBLE CHARACTER IN GAP</title>
       <link>/publication/publ/</link>
-      <pubDate>Wed, 16 Dec 2020 04:44:08 +0900</pubDate>
+      <pubDate>Wed, 23 Dec 2020 04:10:09 +0900</pubDate>
       <guid>/publication/publ/</guid>
       <description></description>
     </item>
