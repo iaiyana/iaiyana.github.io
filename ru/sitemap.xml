@@ -3,7 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/ru/publication-type/1/</loc>
+    <lastmod>2020-12-23T04:10:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication-type/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication-type/1/"
+                />
+  </url>
+  
+  <url>
     <loc>/ru/</loc>
+    <lastmod>2020-12-23T04:10:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,6 +34,7 @@
   
   <url>
     <loc>/ru/authors/</loc>
+    <lastmod>2020-12-23T04:10:09+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -31,7 +48,83 @@
   </url>
   
   <url>
+    <loc>/ru/publication_types/</loc>
+    <lastmod>2020-12-23T04:10:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/publication/</loc>
+    <lastmod>2020-12-23T04:10:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/author/%D0%B0.%D0%B2.-%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0/</loc>
+    <lastmod>2020-12-23T04:10:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/%D0%B0.%D0%B2.-%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/author/%D0%B0.%D0%B2.-%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/publication/publ/</loc>
+    <lastmod>2020-12-23T04:10:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/publ/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication/publ/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/author/%D1%81.%D1%81.-%D0%BF%D0%BE%D0%B8%D1%81%D0%B5%D0%B5%D0%B2%D0%B0/</loc>
+    <lastmod>2020-12-23T04:10:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/%D1%81.%D1%81.-%D0%BF%D0%BE%D0%B8%D1%81%D0%B5%D0%B5%D0%B2%D0%B0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/author/%D1%81.%D1%81.-%D0%BF%D0%BE%D0%B8%D1%81%D0%B5%D0%B5%D0%B2%D0%B0/"
+                />
+  </url>
+  
+  <url>
     <loc>/ru/categories/</loc>
+    <lastmod>2020-12-16T03:47:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -45,16 +138,81 @@
   </url>
   
   <url>
-    <loc>/ru/publication_types/</loc>
+    <loc>/ru/project/</loc>
+    <lastmod>2020-12-16T03:47:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/publication_types/"
+                href="/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="/ru/publication_types/"
+                href="/ru/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/project/individual-project/</loc>
+    <lastmod>2020-12-16T03:47:14+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/individual-project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/individual-project/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/category/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B8-%D1%81%D0%B0%D0%B8%D1%82/</loc>
+    <lastmod>2020-12-16T03:47:14+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ru/post/</loc>
+    <lastmod>2020-12-09T04:11:11+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/post/news/</loc>
+    <lastmod>2020-12-09T04:11:11+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/post/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/talk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/talk/"
                 />
   </url>
   
@@ -69,6 +227,20 @@
                 rel="alternate"
                 hreflang="ru"
                 href="/ru/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/author/%D0%B0%D0%B8%D1%8F%D0%BD%D0%B0-%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/aiyana-ivanova/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/author/%D0%B0%D0%B8%D1%8F%D0%BD%D0%B0-%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0/"
                 />
   </url>
   

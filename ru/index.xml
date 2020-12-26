@@ -5,12 +5,36 @@
     <link>/ru/</link>
       <atom:link href="/ru/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Wed, 23 Dec 2020 04:10:09 +0900</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
       <link>/ru/</link>
     </image>
+    
+    <item>
+      <title>Поиск конечных групп с почти большой степенью неприводимого характера в системе GAP</title>
+      <link>/ru/publication/publ/</link>
+      <pubDate>Wed, 23 Dec 2020 04:10:09 +0900</pubDate>
+      <guid>/ru/publication/publ/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Индивидуальный проект</title>
+      <link>/ru/project/individual-project/</link>
+      <pubDate>Wed, 16 Dec 2020 03:47:14 +0900</pubDate>
+      <guid>/ru/project/individual-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Первый пост</title>
+      <link>/ru/post/news/</link>
+      <pubDate>Wed, 09 Dec 2020 04:11:11 +0900</pubDate>
+      <guid>/ru/post/news/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

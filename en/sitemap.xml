@@ -5,6 +5,16 @@
   <url>
     <loc>/publication-type/1/</loc>
     <lastmod>2020-12-23T04:10:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication-type/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication-type/1/"
+                />
   </url>
   
   <url>
@@ -55,6 +65,16 @@
   <url>
     <loc>/publication/publ/</loc>
     <lastmod>2020-12-23T04:10:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication/publ/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/publ/"
+                />
   </url>
   
   <url>
@@ -80,6 +100,16 @@
   <url>
     <loc>/publication/</loc>
     <lastmod>2020-12-23T04:10:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/"
+                />
   </url>
   
   <url>
@@ -100,6 +130,16 @@
   <url>
     <loc>/author/%D0%B0.%D0%B2.-%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0/</loc>
     <lastmod>2020-12-23T04:10:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/author/%D0%B0.%D0%B2.-%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/%D0%B0.%D0%B2.-%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0/"
+                />
   </url>
   
   <url>
@@ -110,6 +150,16 @@
   <url>
     <loc>/author/%D1%81.%D1%81.-%D0%BF%D0%BE%D0%B8%D1%81%D0%B5%D0%B5%D0%B2%D0%B0/</loc>
     <lastmod>2020-12-23T04:10:09+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/author/%D1%81.%D1%81.-%D0%BF%D0%BE%D0%B8%D1%81%D0%B5%D0%B5%D0%B2%D0%B0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/%D1%81.%D1%81.-%D0%BF%D0%BE%D0%B8%D1%81%D0%B5%D0%B5%D0%B2%D0%B0/"
+                />
   </url>
   
   <url>
@@ -135,6 +185,16 @@
   <url>
     <loc>/project/individual-project/</loc>
     <lastmod>2020-12-16T03:47:14+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/individual-project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/individual-project/"
+                />
   </url>
   
   <url>
@@ -145,16 +205,16 @@
   <url>
     <loc>/project/</loc>
     <lastmod>2020-12-16T03:47:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/ru/project/individual-project/</loc>
-    <lastmod>2020-12-16T03:47:14+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/category/%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B8-%D1%81%D0%B0%D0%B8%D1%82/</loc>
-    <lastmod>2020-12-16T03:47:14+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/"
+                />
   </url>
   
   <url>
@@ -165,6 +225,16 @@
   <url>
     <loc>/post/news/</loc>
     <lastmod>2020-12-09T04:11:11+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/post/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/news/"
+                />
   </url>
   
   <url>
@@ -175,24 +245,38 @@
   <url>
     <loc>/post/</loc>
     <lastmod>2020-12-09T04:11:11+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/ru/post/</loc>
-    <lastmod>2020-12-09T04:11:11+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/ru/post/news/</loc>
-    <lastmod>2020-12-09T04:11:11+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
   </url>
   
   <url>
     <loc>/author/aiyana-ivanova/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/author/%D0%B0%D0%B8%D1%8F%D0%BD%D0%B0-%D0%B8%D0%B2%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/aiyana-ivanova/"
+                />
   </url>
   
   <url>
     <loc>/en/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/ru/post/</loc>
   </url>
   
   <url>
@@ -205,6 +289,16 @@
   
   <url>
     <loc>/talk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/talk/"
+                />
   </url>
   
   <url>
@@ -219,10 +313,6 @@
                 hreflang="en"
                 href="/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>/ru/authors/admin/</loc>
   </url>
   
 </urlset>
