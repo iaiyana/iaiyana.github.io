@@ -68,5 +68,13 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Первый пост</title>
+      <link>/ru/post/news/</link>
+      <pubDate>Wed, 09 Dec 2020 04:11:11 +0900</pubDate>
+      <guid>/ru/post/news/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -238,6 +238,16 @@
   </url>
   
   <url>
+    <loc>/ru/post/</loc>
+    <lastmod>2020-12-09T04:11:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ru/post/news/</loc>
+    <lastmod>2020-12-09T04:11:11+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/aiyana-ivanova/</loc>
     <xhtml:link
                 rel="alternate"
@@ -253,10 +263,6 @@
   
   <url>
     <loc>/en/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>/ru/post/</loc>
   </url>
   
   <url>
